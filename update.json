@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "latestVersionCode": 999,
+  "minVersionCode": 1,
+  "force": false,
+  "title": "Tes Update",
+  "message": "Remote config dari GitHub berhasil dimuat.",
+  "updateButton": "Buka Link",
+  "laterButton": "Nanti",
+  "updateUrl": "https://example.com"
+}
