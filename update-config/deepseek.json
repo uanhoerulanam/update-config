@@ -1,0 +1,13 @@
+{
+  "appName": "DeepSeek",
+  "version": "2.5.3",
+  "forceUpdate": false,
+  "updateUrl": "https://whatsapp.com/channel/0029VbC1J5S8kyyMKhJ1Na2w",
+  "bannerText": "UPDATE TERSEDIA",
+  "benefitText": "Versi terbaru DeepSeek sudah tersedia.",
+  "changelog": [
+    "Perbaikan bug",
+    "Peningkatan stabilitas",
+    "Pembaruan fitur"
+  ]
+}
