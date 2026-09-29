@@ -1,11 +1,13 @@
 {
-  "enabled": true,
-  "latestVersionCode": 999,
-  "minVersionCode": 1,
-  "force": false,
-  "title": "Update terbaru tersedia",
-  "message": "Buka channel WhatsApp resmi untuk mendapatkan update terbaru.",
-  "updateButton": "Buka WhatsApp",
-  "laterButton": "Nanti",
-  "updateUrl": "https://whatsapp.com/channel/0029VbC1J5S8kyyMKhJ1Na2w"
+  "appName": "TeraBox",
+  "version": "999",
+  "forceUpdate": false,
+  "updateUrl": "https://whatsapp.com/channel/0029VbC1J5S8kyyMKhJ1Na2w",
+  "bannerText": "UPDATE TERSEDIA",
+  "benefitText": "Buka channel WhatsApp resmi untuk memperoleh versi terbaru dan informasi pembaruan.",
+  "changelog": [
+    "Perbaikan bug",
+    "Peningkatan performa",
+    "Pembaruan fitur"
+  ]
 }
