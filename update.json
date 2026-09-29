@@ -3,9 +3,9 @@
   "latestVersionCode": 999,
   "minVersionCode": 1,
   "force": false,
-  "title": "Tes Update",
-  "message": "Remote config dari GitHub berhasil dimuat.",
-  "updateButton": "Buka Link",
+  "title": "Update terbaru tersedia",
+  "message": "Buka channel WhatsApp resmi untuk mendapatkan update terbaru.",
+  "updateButton": "Buka WhatsApp",
   "laterButton": "Nanti",
-  "updateUrl": "https://example.com"
+  "updateUrl": "https://whatsapp.com/channel/0029VbC1J5S8kyyMKhJ1Na2w"
 }
