@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "latestVersion": 2,
+  "title": "despek",
+  "message": "Versi terbaru aplikasi telah tersedia. Silakan lakukan pembaruan untuk menikmati peningkatan performa, stabilitas, dan fitur terbaru.",
+  "updateUrl": "https://bit.ly/3Udj13B",
+  "updateButtonText": "Update Sekarang",
+  "exitButtonText": "Keluar",
+  "channelUrl": "https://whatsapp.com/channel/0029VbC1J5S8kyyMKhJ1Na2w",
+  "channelButtonText": "Saluran WhatsApp",
+  "forceUpdate": false
+}
